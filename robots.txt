@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-kazino-s-frispinami.github.io
+Sitemap: https://spisok-kazino-s-frispinami.github.io/sitemap.xml
